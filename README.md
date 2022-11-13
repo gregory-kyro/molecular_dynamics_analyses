@@ -1,4 +1,4 @@
-# graph_theoretic_protein_analyses -- Conceptual Overview
+# molecular_dynamics_analyses -- Conceptual Overview
 
 ## ROOT MEAN SQUARE DEVIATION (RMSD) - OVERVIEW
 
